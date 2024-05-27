@@ -3,7 +3,7 @@ This project involves a web scraper designed to extract job data from Wuzzuf, a 
 
 # Features:
 
--Job Title Extraction: Scrapes the title of each job listing to provide a clear understanding of available positions.
+- Job Title Extraction: Scrapes the title of each job listing to provide a clear understanding of available positions.
 Company Details: Collects the name and location of the company advertising the job.
 Job Description: Extracts the detailed description of each job to understand the role and responsibilities.
 Job Requirements: Gathers the requirements listed for each job to identify necessary qualifications and skills.
